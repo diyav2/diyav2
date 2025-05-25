@@ -1,5 +1,5 @@
 ## Hiiii
-# Currently working on two orthopedic biotech projects and a physics-based simulation.
+Currently working on two orthopedic biotech projects and a physics-based simulation.
 
 <!--
 **diyav2/diyav2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
