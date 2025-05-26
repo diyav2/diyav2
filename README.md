@@ -1,5 +1,8 @@
 ## Hiiii
 Currently working on two orthopedic biotech projects and a physics-based simulation.
+I know python, c++, mathematica, and a littttllleee bit of javascript.
+I have experience with programming, biotech, ee, ml, and applied physics.
+I also like philosophy, speech and debate, and playing basketball :3
 
 <!--
 **diyav2/diyav2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
