@@ -2,6 +2,7 @@
 Currently working on two orthopedic biotech projects and a physics-based simulation.
 I know python, c++, mathematica, and a little bit of java.
 I have experience with programming, biotech, ee, ml, and applied physics.
+RESUME: https://docs.google.com/document/d/1ktp8YMOZCPjtfOyqeM4CSXxWYg39eC9nhqQid3BnplQ/edit?usp=sharing
 
 <!--
 **diyav2/diyav2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
